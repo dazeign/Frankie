@@ -1,0 +1,52 @@
+body{
+    margin: 0 25% 0 25%; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+b #name{
+    font-weight: 700px;
+    font-size: 30px;
+}
+img{
+    float: right;
+    width: 200px;
+    height: 250px;
+    border-radius: 0 20px 0 0;
+    margin-top: -25px;
+}
+i{
+    color: red; 
+    font-weight: bold;
+}
+h3{
+    color: red;
+}
+dl{
+    margin-left: -20px;
+    margin-bottom: 0px;
+}
+.hello{
+    background-color: rgb(148, 218, 218);
+    padding: 25px 25px 5px 25px;
+    border-radius: 20px 20px 0 0;
+}
+.skills{
+    padding: 0px 0px 5px 25px;
+}
+.experience{
+    background-color: rgb(148, 218, 218);
+    padding: 5px 0px 5px 25px;
+}
+.education{
+    padding: 0px 0 5px 25px;
+}
+.referees{
+    background-color: rgb(148, 218, 218);
+    padding: 5px 0px 30px 25px;
+
+}
+footer{
+    background-color: rgb(148, 218, 218);
+    padding: 0px 0px 30px 25px;
+    text-align: center;
+    border-radius: 0px 0px 20px 20px;
+}
