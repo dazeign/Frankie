@@ -1,0 +1,87 @@
+body{
+    margin: 0 20% 5% 20%; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+}
+#name{
+    font-weight: 700px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+#dp{
+    float: right;
+    width: 200px;
+    height: 250px;
+    border-radius: 0 20px 0 0;
+    margin-top: -25px;
+}
+.social{
+    margin-left: 5%;
+}
+#social{
+    width: 50px;
+    height: 50px;
+    padding-right: 10%;
+}
+#social1{
+    width: 40px;
+    height: 40px;
+    padding-bottom: 5px;
+    padding-right: 10%; 
+}
+i{
+    color: red; 
+    font-weight: bold;
+}
+h3{
+    color: red;
+}
+dl{
+    margin-left: -20px;
+    margin-bottom: 0px;
+}
+.hello{
+    background-color: rgb(233, 233, 105);;
+    padding: 25px 25px 5px 25px;
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 15px 20px 0 gray;
+}
+.skills{
+    padding: 0px 0px 5px 25px;
+}
+.experience{
+    background-color: rgb(233, 233, 105);
+    padding: 5px 0px 5px 25px;
+    box-shadow: 0 15px 20px 0 gray;
+}
+.education{
+    padding: 0px 0 5px 25px;
+}
+.referees{
+    background-color: rgb(233, 233, 105);
+    padding: 5px 0px 30px 25px;
+    box-shadow: 0 15px 20px gray;
+    
+}
+footer{
+    background-color: rgb(233, 233, 105);;
+    padding: 20px 0px 30px 25px;
+    text-align: center;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0 15px 20px gray;    
+}
+.contactText{
+    font-size: 15px;
+    font-style: italic;
+}
+input{
+    width: 500px;
+    height: 20px;
+    margin-bottom: 2%;
+}
+.contact1{
+    margin-left: 5%;
+}
